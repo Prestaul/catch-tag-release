@@ -1,5 +1,9 @@
 ## 7.x
 
+### 7.3.0
+
+* I did it
+
 ### 7.2.0
 
 * Updated all the things
